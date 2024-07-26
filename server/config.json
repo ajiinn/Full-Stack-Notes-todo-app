@@ -1,0 +1,3 @@
+{
+  "connectionString": "mongodb+srv://officialajin002:root@books-store-mern.que4k2p.mongodb.net/books-collection?retryWrites=true&w=majority&appName=Books-Store-MERN"
+}
